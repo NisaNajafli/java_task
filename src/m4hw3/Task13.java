@@ -2,7 +2,7 @@ package m4hw3;
 
 public class Task13 {
 
-    public static void main(String[] args) {
+    public void run() {
 
         String metn = " Java proqramlaşdırma dili çox güclüdür! ";
 

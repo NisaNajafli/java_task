@@ -2,7 +2,7 @@ package m4hw3;
 
 public class Task7 {
 
-    public static void main(String[] args) {
+    public void run() {
 
         double temp = 36.8;
         int suret = 95, yanacaq = 0;

@@ -2,7 +2,7 @@ package m4hw3;
 
 public class Task12 {
 
-    public static void main(String[] args) {
+    public void run() {
 
         String tamAd = "nigar əliyeva";
 

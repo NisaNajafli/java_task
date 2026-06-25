@@ -2,7 +2,7 @@ package m4hw3;
 
 public class Task5 {
 
-    public static void main(String[] args) {
+    public void run() {
 
         int bal1 = 78, bal2 = 91, bal3 = 84;
 

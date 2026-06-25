@@ -2,7 +2,7 @@ package m4hw3;
 
 public class Task6 {
 
-    public static void main(String[] args) {
+    public void run(){
 
         final double PI = 3.14159;
         final int MAX_DENEME = 3;

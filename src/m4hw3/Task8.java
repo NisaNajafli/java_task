@@ -2,7 +2,7 @@ package m4hw3;
 
 public class Task8 {
 
-    public static void main(String[] args) {
+    public void run() {
 
         int yas = 25;
         double gelir = 1200.0;

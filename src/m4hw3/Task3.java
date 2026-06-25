@@ -2,7 +2,7 @@ package m4hw3;
 
 public class Task3 {
 
-    public static void main(String[] args) {
+    public void run() {
 
         int     a = 8,  b = 3;
         boolean p = true, q = false;

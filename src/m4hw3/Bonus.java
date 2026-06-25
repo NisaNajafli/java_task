@@ -2,7 +2,7 @@ package m4hw3;
 
 public class Bonus {
 
-    public static void main(String[] args) {
+    public void run() {
 
         final int    MIN_YAS          = 18;
         final int    MIN_PAROL_UZUNLUGU = 8;
