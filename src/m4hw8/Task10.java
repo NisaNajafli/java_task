@@ -1,8 +1,9 @@
 package m4hw8;
 
 public class Task10 {
-    public static void main(String[] args){
+    public static void run(){
 
+        System.out.println("Task10");
         int[] ballar = {45, 78, 92, 30, 65, 88};
         int min = ballar[0];
         int index = 0;

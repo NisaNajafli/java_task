@@ -1,8 +1,9 @@
 package m4hw8;
 
 public class Task7 {
-    public static void main(String[] args){
+    public static void run(){
 
+        System.out.println("Task7");
         int[] ededler = {7, 12, 5, 20, 33, 46, 9};
         int say= 0;
         for(int eded: ededler){

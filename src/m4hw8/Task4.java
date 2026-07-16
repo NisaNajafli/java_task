@@ -2,11 +2,11 @@ package m4hw8;
 import java.util.Scanner;
 
 public class Task4 {
-    public static void main(String[] args) {
+    public static void run(Scanner sc) {
         //Scanner ilə istifadəçidən bir-bir ədədlər al. İstifadəçi 0 daxil edənə qədər ədədləri
         // cəmlə (0 özü cəmə daxil deyil). Sonda cəmi Cəm: X formatında çap et.
 
-        Scanner sc = new Scanner(System.in);
+        System.out.println("Task4");
         int number;
         int cem =0;
         do {

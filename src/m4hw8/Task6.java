@@ -1,9 +1,8 @@
 package m4hw8;
-import java.util.Scanner;
 
 public class Task6 {
-    public static void main(String[] args){
-        Scanner sc = new Scanner(System.in);
+    public static void run(){
+        System.out.println("Task6");
 
         String[] adlar = {"Aysel", "Murad", "Leyla", "Tural"};
 
