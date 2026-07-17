@@ -17,6 +17,9 @@ public class Main {
         Task7.run();
         Task8.run();
         Task9.run();
+        Task10.run();
+        Task11.run();
+        Task12.run();
         sc.close();
     }
 }
